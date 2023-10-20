@@ -1,0 +1,55 @@
+
+
+Crosshair Code: CSGO-otsjt-RERKi-CVnLt-x9weM-mLh8E
+
+Sensitivity: 1.7 
+Zoom Sensitivity: 1
+Mouse DPI: 400 
+HZ: 1000 
+eDPI: 680 
+
+Video
+Brightness: 93%
+Aspect Ratio: Normal 4:3
+Resolution: 1440x1080 Stretched
+Display Mode: Fullscreen
+Refresh Rate: 240 HZ
+Boost Player Constrast: Enabled
+V-Sync: Disabled
+Multisampling Anti-Aliasing: 4X MSAA
+Global Shadow Quality: Very High
+Model / Texture Detail: High
+Texture Filtering Mode: 4X Anistropic
+Shader Detail: Low
+Particle Detail: Low
+Ambient Occlusion: Disabled
+High Dynamic Range: Quality
+Fidelity FX Super Resolution: Disabled (Highest Quality)
+NVIDIA Reflex Low Latency: Enabled
+
+Peripherals
+Mouse: Logitech G Pro Ultralight
+Mousepad: ~~~~~~~~~~~~
+Keyboard: Glorious GMMK Pro
+Switches: Kailh Speed Silver
+Headset: Logitech PRO X
+Monitor: Acer VG272 X
+
+Computer
+GPU: NVIDIA GeForce RTX 2080 Super OC 8GB GDDR6
+CPU: 12th Gen Intel(R) Core(TM) i7-12700K
+Cooler: ~~~~~~~~~~~
+RAM: Corsair Vengeance 16GB ~~~~~~~~
+Memory: Samsung Evo M2 ~~~~~~~
+Motherboard: MSI Z960~~~~~~~~~~
+Case: Corsair ~~~~~~~~~~
+
+NVIDIA Control Panel
+Image Scaling: Off
+Anistropic Filtering: Application-Controlled
+Antialiasing - FXXA: Off
+Antialiasing - Gamma Correction: On
+~~~~~~~~~~~
+
+
+
