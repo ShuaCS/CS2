@@ -49,6 +49,25 @@ Image Scaling: Off
 Anistropic Filtering: Application-Controlled
 Antialiasing - FXXA: Off
 Antialiasing - Gamma Correction: On
+Antialiasing - Mode: Application-Controlled
+Antialiasing - Transparency: Off
+Background Application Max Frame Rate: Off
+CUDA - GPUs - All
+Low Latency Mode: Off
+Max Frame Rate: Off
+Multi-Frame Sampled AA (MFAA): Off
+OpenGL GDI compatibility: Auto
+OpenGL rendering GPU: NVIDIA GeForce RTX 2080 Super
+Power management mode: Optimal power
+Preferred refresh rate (Acer VG272 X): Highest Available
+Texture filtering - Anistropic sampe optimization: Off
+Texture filtering - Negative LOD bias: Clamp
+Texture filtering - Quality: Quality
+Texture filtering - Trilinear Optimization: On
+Threaded Optimization: Auto
+Vertical Sync: Off
+Virtual Reality pre-rendered frames: 1
+Vulkan/OpenGL present method: Auto
 ~~~~~~~~~~~
 
 
